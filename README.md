@@ -1,5 +1,5 @@
-# CST5L-HTML_CSS
-Beginner HTML and CSS projects for my CST5L course.
+# CST5L
+My HTML + CSS + PHP + MySQL learning journey as a beginner.
 
 ## Git Test
 Testing...
